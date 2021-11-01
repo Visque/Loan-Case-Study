@@ -32,4 +32,4 @@ When a client applies for a loan, there are four types of decisions that could b
 
 - ***previous_application.csv*** contains information about the client’s previous loan data. It contains the data whether the previous application had been Approved, Cancelled, Refused or Unused offer.
 
-## LOAN CASE STUDY DataSet Link: [Click Here](https://drive.google.com/drive/folders/1ZCGdnc0rrVgdr16nqaCptx0ODKhSjQ7Y?usp=sharing)
+## LOAN CASE STUDY DataSet: [Click Here](https://drive.google.com/drive/folders/1ZCGdnc0rrVgdr16nqaCptx0ODKhSjQ7Y?usp=sharing)
